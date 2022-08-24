@@ -1,0 +1,68 @@
+ <div class="row services__row">
+
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 services__outer">
+                            <div class="services__single-item">
+                                <img src="assets/img/services-2/icon-1.svg" alt="" class="services__img">
+                                <h3 class="services__title">ARCHITECTURE</h3>
+                                <p class="paragraph">Provides an opportunity to not only add beauty and structure to
+                                    the
+                                    world, but to improve the conditions for people.</p>
+                                <!-- <a href="#/" class="btn__line">View Details</a> -->
+
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 services__outer">
+                            <div class="services__single-item">
+                                <img src="assets/img/services-2/icon-5.svg" alt="" class="services__img">
+                                <h3 class="services__title">INTERIOR DESIGN</h3>
+                                <p class="paragraph">We combine creativity, passion, research and expertise in
+                                    multiple
+                                    areas to deliver interior spaces that empower occupants.</p>
+                                <!-- <a href="#/" class="btn__line">View Details</a> -->
+
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 services__outer">
+                            <div class="services__single-item">
+                                <img src="assets/img/services-2/icon-6.svg" alt="" class="services__img">
+                                <h3 class="services__title">MAINTENANCE</h3>
+                                <p class="paragraph">We can efficiently create a living dataset of your assets and
+                                    integrate into your computerized maintenance management.</p>
+                                <!-- <a href="#/" class="btn__line">View Details</a> -->
+
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 services__outer">
+                            <div class="services__single-item">
+                                <img src="assets/img/services-2/icon-2.svg" alt="" class="services__img">
+                                <h3 class="services__title">CONSULTING & PLANNING</h3>
+                                <p class="paragraph">Our team’s analytical tools and user engagement activities
+                                    inspire creativity that enhance any project.</p>
+                                <!-- <a href="#/" class="btn__line">View Details</a> -->
+
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 services__outer">
+                            <div class="services__single-item">
+                                <img src="assets/img/services-2/icon-4.svg" alt="" class="services__img">
+                                <h3 class="services__title">ENGINEERING</h3>
+                                <p class="paragraph">We create innovative engineering systems that help
+                                    organizations
+                                    achieve bold business and performance goals.</p>
+                                <!-- <a href="#/" class="btn__line">View Details</a> -->
+
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 services__outer">
+                            <div class="services__single-item">
+                                <img src="assets/img/services-2/icon-3.svg" alt="" class="services__img">
+                                <h3 class="services__title">CONSTRUCTION</h3>
+                                <p class="paragraph">Across our firm, we employ a diverse range of professionals
+                                    with a
+                                    successful record delivering high-quality projects.</p>
+                                <!-- <a href="#/" class="btn__line">View Details</a> -->
+
+                            </div>
+                        </div>
+
+                    </div>
