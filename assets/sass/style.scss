@@ -656,6 +656,11 @@
 
     &-container {
       margin-top: 5rem;
+      display: none;
+
+      &.show {
+        display: block;
+      }
     }
 
     &-img,
