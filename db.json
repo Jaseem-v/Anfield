@@ -1,0 +1,24 @@
+{
+    "sports": [
+        {
+            "title": "PADDLE TENNIS",
+            "description": "Paddle Tennis is a game adapted from Tennis, which has been played for over a century. The court is smaller, there are no doubles lanes, and the net is lower than in tennis. The playing field for Padel Court is 10 meters wide and 20 meters long. The two teams are separated by a net in the center of the field. The court is surrounded on all sides by three to four meter high walls that like in squash, can be included in the rally.",
+            "img": "assets/img/sports/1.jpg"
+        },
+        {
+            "title": "INDOOR & OUTDOOR SQUASH",
+            "description": "Squash is a racket and ball sport played in both indoor and outdoor by two or four players in a four-walled court with a small, hollow rubber ball. The players alternate in striking the ball with their rackets onto the playable surfaces of the four walls of the court. The objective of the game is to hit the ball in such a way that the opponent is not able to play a valid return.It’s very interesting game.",
+            "img": "assets/img/sports/2.jpg"
+        },
+        {
+            "title": "PICKLE BALL",
+            "description": "Pickleball is an indoor or outdoor racket/paddle sport where two players (singles), or four players (doubles), hit a perforated hollow polymer ball over a 36-inch-high (0.91 m) net using solid faced paddles. The two sides hit the ball back and forth over the net until one side commits a rule infraction. Pickleball was invented in 1965 as a children's backyard game on Bainbridge Island, Washington, USA.[2]In 2022 pickleball was adopted as the official state sport of WashingtonProfessional pickleball court design and construction by the leaders in the industry",
+            "img": "assets/img/sports/3.jpg"
+        },
+        {
+            "title": "SPORTS EQUIPMENTS",
+            "description": "ANFIELD provides a complete line of indoor and outdoor sports equipment for all sports. We also provide sports equipment in custom sizes based on the needs of the site. We guarantee the highest quality and standard..",
+            "img": "assets/img/sports/1.jpg"
+        }
+    ]
+}

@@ -77,11 +77,11 @@ var swiper = new Swiper(".video-Swiper", {
             spaceBetween: 40,
         },
         990: {
-            slidesPerView: 3,
+            slidesPerView: 2,
             spaceBetween: 50,
         },
         1400: {
-            slidesPerView: 3,
+            slidesPerView: 2,
             spaceBetween: 30,
         },
 

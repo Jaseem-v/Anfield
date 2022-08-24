@@ -153,13 +153,9 @@ html {
   }
 
   &:hover {
-    color: #000;
-
-    & span {
-      width: 225%;
-      height: 562.5px;
-      // background-color: #005b97;
-    }
+    color: $color-primary;
+    background: transparent;
+    border: 1px solid $color-primary;
   }
 
   &--white {
@@ -198,6 +194,13 @@ html {
 
   &--grean {
     background: $color-secondary;
+
+    &:hover {
+      color: $color-primary;
+      background: #fff;
+      border: 1px solid $color-primary;
+    }
+
   }
 
 
@@ -542,6 +545,7 @@ html {
 
     &:hover {
       background: #fff !important;
+
       span {
         color: #000;
       }
