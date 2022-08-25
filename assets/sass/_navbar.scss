@@ -75,6 +75,8 @@
     @media only screen and (max-width: $bp-992) {
       display: none;
       order: 2;
+      gap: 0rem;
+
       // box-shadow: 0 5px 5px rgba($color: #000000, $alpha: 0.1);
 
       // margin-bottom: 2.5rem;
@@ -138,7 +140,7 @@
     display: none;
     z-index: 20;
     position: absolute;
-    top: 3rem;
+    top: 4rem;
     right: 2.5rem;
     margin-top: 1rem;
 
