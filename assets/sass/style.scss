@@ -113,13 +113,9 @@
   // height: 100vh;
   @media only screen and (max-width: $bp-992) {
     height: auto;
-    background: #eeedeb;
+    // background: #eeedeb;
   }
 
-  @media only screen and (max-width: $bp-xsmall) {
-    background-position: 0%;
-    background: #eeedeb;
-  }
 
   // &::before {
   //   opacity: 0.5;
