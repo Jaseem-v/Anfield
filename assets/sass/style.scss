@@ -19,6 +19,13 @@
       right: 0px;
       opacity: 1;
     }
+
+    .owl-next,
+    .owl-prev {
+      @media only screen and (max-width: $bp-xsmall) {
+        display: none;
+      }
+    }
   }
 }
 
