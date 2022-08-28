@@ -177,3 +177,28 @@ $(document).ready(function () {
     });
 });
 
+
+
+const contactForm = document.querySelector("#contact-form");
+
+$("#contact-form").submit((e) => {
+    e.preventDefault()
+    console.log();
+    $.ajax({
+        url: $("#contact-form").attr('action'),
+        data: $("#contact-form").serialize(),
+        method: "post",
+        headers: {
+            'Content-Type': 'application/x-www-form-urlencoded'
+        },
+        success: function (response) {
+            alert("Form submitted successfully")
+            window.location.reload()
+            //window.location.href="https://google.com"
+        },
+        error: function (err) {
+            alert("Something Error")
+
+        }
+    })
+})
