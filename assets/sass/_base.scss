@@ -107,7 +107,7 @@ html {
   letter-spacing: 0.3px;
   z-index: 1;
   transition: 0.5s;
-  border: none;
+  border: 1px solid $color-primary;
   position: relative;
   display: inline-block;
   text-align: center;
@@ -124,33 +124,6 @@ html {
     border: none;
   }
 
-  &__line {
-    color: $color-primary;
-    font-size: 1.5rem;
-    text-transform: capitalize;
-    font-weight: 500;
-    letter-spacing: 0.3px;
-    position: relative;
-    padding-bottom: 3px;
-
-    &::before {
-      content: "";
-      background: $color-primary;
-      height: 1px;
-      width: 100%;
-      position: absolute;
-      left: 0;
-      bottom: 0;
-    }
-
-    &:hover {
-      color: $color-primary;
-
-      &::before {
-        background: $color-primary;
-      }
-    }
-  }
 
   &:hover {
     color: $color-primary;
@@ -165,21 +138,11 @@ html {
     box-shadow: none;
   }
 
-  &--contact {
-    margin: 3.5rem 0 0;
-  }
-
-  &--enroll {
-    width: 100%;
-    display: block;
-    margin-top: 3rem;
-  }
 
   &--header {
     padding: 1rem 2.4rem;
     box-shadow: none;
     margin-top: 1rem;
-    border: none;
   }
 
   &--about {
@@ -188,7 +151,7 @@ html {
   }
 
   &--outline {
-    border: 3px solid #fff;
+    border: 1px solid #fff;
     background: transparent;
   }
 
@@ -585,7 +548,7 @@ html {
     &:hover {
       background: #82b440;
       color: #fff;
-      padding: 3px 1.5rem;
+      padding: 1px 1.5rem;
       border-radius: 5px;
       box-shadow: 0 1rem 2rem rgba($color: #000000, $alpha: 0.15);
       transform: translateY(-3px);
