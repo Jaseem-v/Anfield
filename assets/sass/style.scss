@@ -765,6 +765,10 @@
 
   &__left-part {
     padding-right: 3rem;
+
+    @media only screen and (max-width: $bp-small) {
+      padding-right: 0rem;
+    }
   }
 
   &__l-para {
@@ -852,6 +856,10 @@
     background: #fff;
     border-radius: 18px;
     box-shadow: #ccc 0 0px 10px;
+  }
+
+  &--page {
+    margin-top: -5rem;
   }
 
   &__information {

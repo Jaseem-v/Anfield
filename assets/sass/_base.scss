@@ -591,3 +591,17 @@ html {
     flex-direction: column-reverse !important;
   }
 }
+
+///////////////////////////
+/// text selcet
+
+::-moz-selection {
+  /* Code for Firefox */
+  color: #fff;
+  background: $color-primary;
+}
+
+::selection {
+  color: #fff;
+  background: rgba($color-primary, 0.6);
+}
