@@ -146,8 +146,8 @@
                         <div class="col-lg-7 col-md-7 col-sm-12">
                             <div class="contact__left-part">
                                 <form
-                                    action="https://script.google.com/macros/s/AKfycbwt4rlrO2Usi7PtgmazsJAk2WoXP6j7BXl2Cd4bn0lf2yaFIqXDZyFWyL-rAEfCzhLtIQ/exec"
-                                    method="post" class="contact__form" id="contact-form">
+                                    action="https://script.google.com/macros/s/AKfycbymm4tkcl78nHRBt9DHiaP3dH1NwVC2P-wyMQXqV3CHq4F22HFud6cgfVPlfCfkzqsRog/exec"
+                                    class="contact__form" id="contact-form">
                                     <div class="row">
                                         <div class="col-md-12 col-lg-6">
                                             <div class="form__group">
@@ -176,9 +176,17 @@
                                             placeholder="Your message"></textarea>
                                     </div>
 
-                                    <button type="submit" class="btn btn--contact">
+                                    <button type="submit" id="form-btn" class="btn btn--contact">
                                         Send Message
                                     </button>
+                                    <div class="form__loading mt-5">
+                                        <div class="loaderr d-none">
+                                            <div class="scanner">
+                                                <h1>Loading...</h1>
+                                            </div>
+                                        </div>
+                                    </div>
+
                                 </form>
                             </div>
 
