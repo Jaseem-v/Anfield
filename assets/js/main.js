@@ -43,7 +43,7 @@ $('.owl-carousel').owlCarousel({
     dots: false,
     nav: true,
     mouseDrag: false,
-    // autoplay: 3000,
+    autoplay: 3000,
     animateOut: 'fadeOut',
     responsive: {
         0: {
